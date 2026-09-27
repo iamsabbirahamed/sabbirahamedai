@@ -1,0 +1,293 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Sabbir Ahamed — AI Automation Solutions Expert. Building AI automation systems for modern businesses: AI voice agents, appointment systems, CRM automation and lead capture." font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <title>Sabbir Ahamed — AI Automation Solutions Expert</title>
+  <desc>Premium light-theme profile hero. Left: dot-matrix portrait, voice waveform and a build-and-deploy command line. Right: SYSTEM.INFO panel with name, role, focus, niche, market, the systems Sabbir builds, an automation workflow and technology stack.</desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#F1F5F9"/>
+    </linearGradient>
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#F8FAFC" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#2E3A8C"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="0.55" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#2E3A8C"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2E3A8C" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#3B82F6"/>
+      <stop offset="0.5" stop-color="#6366F1"/>
+      <stop offset="0.85" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#2E3A8C" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowTL" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2E3A8C" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2E3A8C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBR" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="portraitGlow" cx="0.5" cy="0.42" r="0.6">
+      <stop offset="0" stop-color="#2E3A8C" stop-opacity="0.18"/>
+      <stop offset="0.6" stop-color="#2E3A8C" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#2E3A8C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="faceFall" gradientUnits="userSpaceOnUse" cx="258" cy="226" r="190">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.42" stop-color="#dcdcdc"/>
+      <stop offset="0.72" stop-color="#7a7a7a"/>
+      <stop offset="1" stop-color="#1c1c1c"/>
+    </radialGradient>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#2E3A8C" stroke-width="1" opacity="0.08"/>
+    </pattern>
+    <pattern id="microdots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#2E3A8C" opacity="0.07"/>
+    </pattern>
+    <pattern id="pdots" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="3.5" cy="3.5" r="1.55" fill="#2E3A8C"/>
+    </pattern>
+
+    <mask id="portraitMask">
+      <g fill="url(#faceFall)">
+        <ellipse cx="258" cy="226" rx="64" ry="78"/>
+        <rect x="234" y="290" width="48" height="56" rx="18"/>
+        <path d="M156,440 C156,374 200,344 258,344 C316,344 360,374 360,440 L360,448 L156,448 Z"/>
+      </g>
+    </mask>
+
+    <clipPath id="frameClip">
+      <rect x="8" y="8" width="1164" height="594" rx="26"/>
+    </clipPath>
+
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#2E3A8C" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- ===================== BACKGROUND ===================== -->
+  <g clip-path="url(#frameClip)">
+    <rect x="8" y="8" width="1164" height="594" fill="url(#bgGrad)"/>
+    <rect x="8" y="8" width="1164" height="594" fill="url(#grid)"/>
+    <rect x="8" y="8" width="1164" height="594" fill="url(#microdots)"/>
+    <ellipse cx="150" cy="120" rx="520" ry="360" fill="url(#glowTL)"/>
+    <ellipse cx="1080" cy="560" rx="520" ry="340" fill="url(#glowBR)"/>
+  </g>
+
+  <!-- ===================== OUTER FRAME ===================== -->
+  <rect x="8" y="8" width="1164" height="594" rx="26" fill="none" stroke="#2E3A8C" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="9.5" y="9.5" width="1161" height="591" rx="25" fill="none" stroke="#CBD5E1" stroke-opacity="0.6" stroke-width="1"/>
+  <rect x="8" y="8" width="1164" height="594" rx="26" fill="none" stroke="url(#accentLine)" stroke-width="1.8" stroke-opacity="0.9" stroke-dasharray="360 3140">
+    <animate attributeName="stroke-dashoffset" from="0" to="-3500" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ===================== TERMINAL HEADER ===================== -->
+  <g>
+    <rect x="32" y="30" width="1116" height="48" rx="12" fill="url(#panelGrad)" stroke="#E2E8F0" filter="url(#softShadow)"/>
+    <circle cx="58" cy="54" r="6" fill="#FF5F56"/>
+    <circle cx="80" cy="54" r="6" fill="#FFBD2E"/>
+    <circle cx="102" cy="54" r="6" fill="#27C93F"/>
+    <text x="132" y="59" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" fill="#64748B" letter-spacing="0.5">sabbir@automation:~</text>
+    <g>
+      <circle cx="1005" cy="54" r="5" fill="#059669">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="5;5.8;5" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="1020" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#059669" letter-spacing="1.5">SYSTEM ONLINE</text>
+    </g>
+  </g>
+
+  <!-- ===================== LEFT PANEL — VISUAL.SYSTEM ===================== -->
+  <g>
+    <rect x="32" y="94" width="452" height="484" rx="16" fill="url(#panelGrad)" stroke="#E2E8F0" filter="url(#softShadow)"/>
+    <rect x="32" y="94" width="452" height="2" rx="1" fill="#2E3A8C" opacity="0.5"/>
+
+    <text x="56" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#2E3A8C" letter-spacing="2.5">[ AI AUTOMATION · VOICE AI ]</text>
+    <text x="56" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#64748B" letter-spacing="4">VISUAL.SYSTEM</text>
+
+    <ellipse cx="258" cy="270" rx="150" ry="165" fill="url(#portraitGlow)"/>
+
+    <!-- ===== DOT-MATRIX PORTRAIT (swappable slot) ===== -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="1.4s" begin="0.2s" fill="freeze"/>
+      <g mask="url(#portraitMask)">
+        <rect x="140" y="140" width="236" height="316" fill="#EEF2FF"/>
+        <rect x="140" y="140" width="236" height="316" fill="url(#pdots)"/>
+        <ellipse cx="238" cy="205" rx="26" ry="34" fill="#1E293B" opacity="0.20"/>
+        <ellipse cx="288" cy="212" rx="20" ry="30" fill="#1E293B" opacity="0.16"/>
+        <ellipse cx="258" cy="150" rx="60" ry="30" fill="#2E3A8C" opacity="0.16"/>
+      </g>
+      <g mask="url(#portraitMask)">
+        <rect x="140" y="150" width="236" height="3" fill="#2E3A8C" opacity="0.7">
+          <animate attributeName="y" values="150;446;150" dur="4.5s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.5s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+      <g fill="none" stroke="#2E3A8C" stroke-opacity="0.45" stroke-width="1.2">
+        <ellipse cx="258" cy="226" rx="64" ry="78"/>
+        <path d="M156,440 C156,374 200,344 258,344 C316,344 360,374 360,440"/>
+      </g>
+    </g>
+
+    <!-- HUD corner brackets -->
+    <g stroke="#2E3A8C" stroke-width="1.6" fill="none" opacity="0.55">
+      <path d="M146,168 v-16 h16"/>
+      <path d="M370,168 v-16 h-16"/>
+      <path d="M146,432 v16 h16"/>
+      <path d="M370,432 v16 h-16"/>
+    </g>
+
+    <!-- ===== VOICE WAVEFORM ===== -->
+    <g>
+      <line x1="104" y1="478" x2="412" y2="478" stroke="#CBD5E1" stroke-width="1"/>
+      <g transform="translate(112,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.18;1 0.72;1 0.30;1 0.55;1 0.18" dur="1.3s" begin="0.00s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(124,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.30;1 0.95;1 0.42;1 0.68;1 0.30" dur="1.15s" begin="0.08s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(136,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.22;1 0.60;1 0.90;1 0.35;1 0.22" dur="1.4s" begin="0.16s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(148,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.45;1 1.0;1 0.30;1 0.75;1 0.45" dur="1.25s" begin="0.04s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(160,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.18;1 0.55;1 0.85;1 0.28;1 0.18" dur="1.35s" begin="0.20s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(172,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.35;1 0.88;1 0.40;1 0.62;1 0.35" dur="1.1s"  begin="0.12s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(184,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.50;1 0.20;1 0.95;1 0.45;1 0.50" dur="1.45s" begin="0.06s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(196,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.28;1 0.70;1 0.35;1 0.90;1 0.28" dur="1.2s"  begin="0.18s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(208,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.60;1 1.0;1 0.42;1 0.72;1 0.60" dur="1.3s"  begin="0.02s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(220,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.22;1 0.52;1 0.88;1 0.30;1 0.22" dur="1.38s" begin="0.14s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(232,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.40;1 0.92;1 0.30;1 0.66;1 0.40" dur="1.12s" begin="0.10s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(244,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.55;1 0.25;1 0.95;1 0.48;1 0.55" dur="1.42s" begin="0.05s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(256,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.30;1 0.80;1 0.38;1 1.0;1 0.30" dur="1.28s" begin="0.17s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(268,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.48;1 0.95;1 0.35;1 0.70;1 0.48" dur="1.18s" begin="0.03s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(280,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.20;1 0.58;1 0.86;1 0.30;1 0.20" dur="1.33s" begin="0.15s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(292,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.38;1 0.90;1 0.42;1 0.64;1 0.38" dur="1.22s" begin="0.09s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(304,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.58;1 0.22;1 0.92;1 0.46;1 0.58" dur="1.4s"  begin="0.06s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(316,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.26;1 0.68;1 0.34;1 0.88;1 0.26" dur="1.26s" begin="0.19s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(328,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.44;1 0.96;1 0.30;1 0.62;1 0.44" dur="1.14s" begin="0.11s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(340,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.30;1 0.55;1 0.30;1 0.50;1 0.30" dur="1.3s"  begin="0.07s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(352,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.20;1 0.62;1 0.80;1 0.28;1 0.20" dur="1.36s" begin="0.13s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(364,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.34;1 0.84;1 0.40;1 0.58;1 0.34" dur="1.24s" begin="0.05s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(376,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.24;1 0.48;1 0.72;1 0.26;1 0.24" dur="1.32s" begin="0.16s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(388,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.18;1 0.40;1 0.24;1 0.36;1 0.18" dur="1.28s" begin="0.10s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(400,478)"><rect x="-2.4" y="-22" width="4.8" height="44" rx="2.4" fill="url(#waveGrad)"><animateTransform attributeName="transform" type="scale" values="1 0.14;1 0.30;1 0.18;1 0.26;1 0.14" dur="1.34s" begin="0.14s" repeatCount="indefinite"/></rect></g>
+    </g>
+    <text x="104" y="512" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" fill="#94A3B8" letter-spacing="2">VOICE ACTIVITY · LIVE</text>
+
+    <!-- ===== COMMAND LINE ===== -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+      <text x="56" y="552" fill="#94A3B8">~/automation</text>
+      <text x="152" y="552" fill="#059669">$</text>
+      <text x="166" y="552" fill="#1E293B">build --deploy</text>
+      <rect x="286" y="542" width="9" height="14" fill="#2E3A8C">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- ===================== RIGHT PANEL — SYSTEM.INFO ===================== -->
+  <g>
+    <rect x="500" y="94" width="648" height="484" rx="16" fill="url(#panelGrad)" stroke="#E2E8F0" filter="url(#softShadow)"/>
+    <rect x="500" y="94" width="648" height="2" rx="1" fill="#2E3A8C" opacity="0.5"/>
+
+    <text x="528" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#64748B" letter-spacing="4">SYSTEM.INFO</text>
+    <g>
+      <circle cx="1008" cy="122" r="5" fill="#059669">
+        <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="1020" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#059669" letter-spacing="1.5">AI SYSTEM READY</text>
+    </g>
+
+    <text x="528" y="180" font-size="44" font-weight="700" fill="url(#nameGrad)" letter-spacing="0.5">SABBIR AHAMED</text>
+    <text x="530" y="210" font-size="15.5" font-weight="600" fill="#2E3A8C" letter-spacing="3.5">AI AUTOMATION SOLUTIONS EXPERT</text>
+    <rect x="530" y="222" width="360" height="2" fill="url(#accentLine)"/>
+
+    <text x="530" y="250" font-size="13" fill="#475569" letter-spacing="1.2">BUILDING AI AUTOMATION SYSTEMS FOR MODERN BUSINESSES.</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5">
+      <text x="528" y="284" fill="#94A3B8">sabbir@automation:~$</text>
+      <text x="690" y="284" fill="#1E293B">./profile.sh</text>
+    </g>
+    <line x1="528" y1="298" x2="1120" y2="298" stroke="#CBD5E1" stroke-width="1"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5">
+      <text x="528" y="326" fill="#2E3A8C">&gt;</text>
+      <text x="546" y="326" fill="#64748B" letter-spacing="1">NAME</text>
+      <text x="628" y="326" fill="#0F172A">Sabbir Ahamed</text>
+
+      <text x="528" y="352" fill="#2E3A8C">&gt;</text>
+      <text x="546" y="352" fill="#64748B" letter-spacing="1">ROLE</text>
+      <text x="628" y="352" fill="#0F172A">AI Automation Expert</text>
+
+      <text x="528" y="378" fill="#2E3A8C">&gt;</text>
+      <text x="546" y="378" fill="#64748B" letter-spacing="1">FOCUS</text>
+      <text x="628" y="378" fill="#0F172A">AI Automation + Voice AI</text>
+
+      <text x="528" y="404" fill="#2E3A8C">&gt;</text>
+      <text x="546" y="404" fill="#64748B" letter-spacing="1">NICHE</text>
+      <text x="628" y="404" fill="#0F172A">Dental Clinics</text>
+
+      <text x="528" y="430" fill="#2E3A8C">&gt;</text>
+      <text x="546" y="430" fill="#64748B" letter-spacing="1">MARKET</text>
+      <text x="628" y="430" fill="#0F172A">United States</text>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      <text x="872" y="326" font-size="12.5" fill="#2E3A8C">&gt; <tspan fill="#64748B" letter-spacing="1">BUILDING</tspan></text>
+      <g font-size="13" fill="#1E293B">
+        <circle cx="878" cy="349" r="3" fill="#2E3A8C"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+        <text x="892" y="353">AI Voice Agents</text>
+        <circle cx="878" cy="373" r="3" fill="#2E3A8C"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+        <text x="892" y="377">Appointment Systems</text>
+        <circle cx="878" cy="397" r="3" fill="#2E3A8C"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.0s" repeatCount="indefinite"/></circle>
+        <text x="892" y="401">CRM Automation</text>
+        <circle cx="878" cy="421" r="3" fill="#2E3A8C"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.5s" repeatCount="indefinite"/></circle>
+        <text x="892" y="425">Lead Capture Systems</text>
+      </g>
+    </g>
+
+    <!-- ===== AUTOMATION WORKFLOW STRIP ===== -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">
+      <text x="528" y="466" font-size="9.5" fill="#94A3B8" letter-spacing="2">AUTOMATION FLOW</text>
+      <line x1="560" y1="492" x2="1092" y2="492" stroke="#CBD5E1" stroke-width="1.5"/>
+      <circle cx="560" cy="492" r="3.5" fill="#2E3A8C">
+        <animate attributeName="cx" values="560;1092" dur="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+      <g>
+        <rect x="528" y="480" width="88" height="24" rx="12" fill="#FFFFFF" stroke="#3B82F6" stroke-opacity="0.6"/>
+        <text x="572" y="496" text-anchor="middle" fill="#475569" letter-spacing="1">CALL</text>
+
+        <rect x="642" y="480" width="104" height="24" rx="12" fill="#EEF2FF" stroke="#2E3A8C" stroke-opacity="0.7"/>
+        <text x="694" y="496" text-anchor="middle" fill="#2E3A8C" letter-spacing="0.5">AI AGENT</text>
+
+        <rect x="772" y="480" width="96" height="24" rx="12" fill="#FFFFFF" stroke="#3B82F6" stroke-opacity="0.6"/>
+        <text x="820" y="496" text-anchor="middle" fill="#475569" letter-spacing="0.5">QUALIFY</text>
+
+        <rect x="894" y="480" width="80" height="24" rx="12" fill="#FFFFFF" stroke="#3B82F6" stroke-opacity="0.6"/>
+        <text x="934" y="496" text-anchor="middle" fill="#475569" letter-spacing="1">BOOK</text>
+
+        <rect x="1000" y="480" width="92" height="24" rx="12" fill="#EEF2FF" stroke="#2E3A8C" stroke-opacity="0.7"/>
+        <text x="1046" y="496" text-anchor="middle" fill="#2E3A8C" letter-spacing="1">CRM</text>
+      </g>
+    </g>
+
+    <!-- ===== TECH STACK CHIPS ===== -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">
+      <g fill="#2E3A8C">
+        <rect x="528" y="524" width="46"  height="26" rx="8" fill="#F8FAFC" stroke="#CBD5E1"/><text x="551"  y="541" text-anchor="middle">n8n</text>
+        <rect x="582" y="524" width="56"  height="26" rx="8" fill="#F8FAFC" stroke="#CBD5E1"/><text x="610"  y="541" text-anchor="middle">Make</text>
+        <rect x="646" y="524" width="52"  height="26" rx="8" fill="#F8FAFC" stroke="#CBD5E1"/><text x="672"  y="541" text-anchor="middle">Vapi</text>
+        <rect x="706" y="524" width="86"  height="26" rx="8" fill="#F8FAFC" stroke="#CBD5E1"/><text x="749"  y="541" text-anchor="middle">ElevenLabs</text>
+        <rect x="800" y="524" width="98"  height="26" rx="8" fill="#F8FAFC" stroke="#CBD5E1"/><text x="849"  y="541" text-anchor="middle">GoHighLevel</text>
+        <rect x="906" y="524" width="66"  height="26" rx="8" fill="#F8FAFC" stroke="#CBD5E1"/><text x="939"  y="541" text-anchor="middle">OpenAI</text>
+        <rect x="980" y="524" width="58"  height="26" rx="8" fill="#F8FAFC" stroke="#CBD5E1"/><text x="1009" y="541" text-anchor="middle">Twilio</text>
+        <rect x="1046" y="524" width="72" height="26" rx="8" fill="#F8FAFC" stroke="#CBD5E1"/><text x="1082" y="541" text-anchor="middle">Airtable</text>
+      </g>
+    </g>
+  </g>
+</svg>
